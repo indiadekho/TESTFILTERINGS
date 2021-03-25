@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "repository": "https://github.com/indiadekho/BetterFilter",
+    "success_url": "https://telegram.dog/INSANE_BANDA",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
