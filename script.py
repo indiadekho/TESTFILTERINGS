@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<b><i>Add me as admin in your group and start filtering :)</i><b>
 
 
 <b>Basic Commands;</b>
@@ -22,39 +22,39 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<b>/Add Filter Name Reply<b>  -  Add filter for name
 
-<code>/del name</code>  -  Delete filter
+<b>/Del Filter Name<b>  -  Delete filter
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+<b>/Delall<b>  -  Delete entire filters (Group Owner Only!)
 
-<code>/viewfilters</code>  -  List all filters in chat
+<b>/viewfilters<b>  -  List all filters in chat
 
 
 <b>Connection Commands;</b>
 
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
+<b>/Connect Groupid<b>  -  Connect your group to my PM. You can also simply use,
+<b>/connect<b> in groups.
 
-<code>/connections</code>  -  Manage your connections.
+<code>/Connections</code>  -  Manage your connections.
 
 
 <b>Extras;</b>
 
-/status  -  Shows current status of your bot (Auth User Only)
+/Status  -  Shows current status of your bot (Auth User Only)
 
-/id  -  Shows ID information
+/Id  -  Shows ID information
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+<b>/Info userid<b>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @INSANE_BANDA</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : HD Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> INSANE_BANDA    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
