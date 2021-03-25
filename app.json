@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/indiadekho/BetterFilter",
+    "repository": "https://github.com/indiadekho/TESTFILTERINGS",
     "success_url": "https://telegram.dog/INSANE_BANDA",
     "env": {
         "WEBHOOK": {
